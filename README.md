@@ -1,4 +1,4 @@
-# Supplier,Pricing and Inventory Optimization-Analysis
+# Supplier,Pricing and Inventory Optimization Analysis
 **Data Analysis : End to End Analysis**
 <img width="1159" height="656" alt="image" src="https://github.com/user-attachments/assets/7a75b323-8168-4a36-9f5d-f5be52d45893" />
 
